@@ -1,6 +1,1 @@
-*.csv
-*.xlsx
-*.zip
-*.png
-*.docx
-.RProj.user
+.Rproj.user/**
